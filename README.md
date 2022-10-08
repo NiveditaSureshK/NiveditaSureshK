@@ -14,9 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaSureshK&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![image](https://user-images.githubusercontent.com/71536311/194708879-a7a4df38-c738-4107-84d7-f496e850ac4f.png)
+<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/71536311/194708954-146bcad3-9c7e-4fca-906e-8cf4dc380b7a.png"></p>
 
 ### 😂 Random Dev Meme
-![image](https://user-images.githubusercontent.com/71536311/194612421-3db794d2-58c7-4064-bc49-439707e53ead.png)
+<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/71536311/194709103-99e73259-6e03-4a6f-b9df-40232b0718ad.png"></p>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=NiveditaSureshK&icon=0&color=0)](https://visitcount.itsvg.in)
