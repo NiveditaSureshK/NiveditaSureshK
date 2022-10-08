@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaSureshK&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![image](https://user-images.githubusercontent.com/71536311/194708879-a7a4df38-c738-4107-84d7-f496e850ac4f.png)
 
 ### 😂 Random Dev Meme
 ![image](https://user-images.githubusercontent.com/71536311/194612421-3db794d2-58c7-4064-bc49-439707e53ead.png)
