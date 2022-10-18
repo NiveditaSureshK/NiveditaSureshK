@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>🤝 I’m looking for help with exploring new tools and technologies.<br>🌱 I’m currently learning more about Data Analysis.<br>💬 Ask me about any tech related stuff.<br>📫 How to reach me: nivedita.sureshk@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I live for pineapples on pizza!
+🔭 I’m currently working on my skills.<br>🤝 I’m looking for help with exploring new tools and technologies.<br>🌱 I’m currently learning more about Data Analytics.<br>💬 Ask me about any tech related stuff.<br>📫 How to reach me: nivedita.sureshk@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I live for pineapples on pizza!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedita-suresh-kumar/) 
