@@ -6,5 +6,5 @@ As a Master's graduate in Applied Data Analytics, I thrive on solving complex pr
 
 Whether it's crafting ETL pipelines with PostgreSQL, leveraging Power BI for real-time visualizations, or scaling models with Databricks, I’m all about driving efficiency and unlocking hidden value in data. When I’m not busy turning raw data into actionable insights, you can find me learning new AI techniques or exploring the endless possibilities of data science.
 
-#### Reach out if you want to talk shop, anything in particular, or how puppies are a godsend to mankind!
+#### Feel free to connect if you'd like to talk data or collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedita-suresh-kumar/) 
