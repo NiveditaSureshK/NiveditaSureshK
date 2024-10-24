@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on my skills.<br>🤝 I’m looking for help with exploring new tools and technologies.<br>🌱 I’m currently learning more about Data Analytics.<br>💬 Ask me about any tech related stuff.<br>📫 How to reach me: nivedita.sureshk@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I live for pineapples on pizza!
+# About Me:
+Alice In Wonderland has a line that has stuck with me ever since: "She had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and, burning with curiosity, she ran after it."
+
+As I've moved forward in life, I've realized that successful individuals don't have to force themselves to always be learning more. They are always learning because, like Alice, they are burning with curiosity. 
+
+It is not the end result that fascinates me, but the journey to arrive at a reasoned discovery, and I couldn’t help but be intrigued by pursuits that require a combination of burning curiosity and intellectual creativity. As I worked towards my undergrad degree in Computer Science, I found my "aha" moment that would expertly blend these interests: data analytics.
+
+On occasion, I dabble in web design, but it is Data Analytics that piqued my interest. Indisputable and potent, data compels you to ask the right questions (Could Jack really have fit on the door in 'Titanic'?!).
+
+My expertise includes tools like PySpark, SQLAlchemy, DBT Cloud, and Power BI. With a proven track record of improving efficiency by up to 70% and enhancing decision-making with real-time data visualizations, I am passionate about leveraging data to drive impactful business outcomes.
+
+Reach out if you want to talk shop, anything in particular, or how puppies are a godsend to mankind!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedita-suresh-kumar/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-### ✍️ Random Dev Quote
-<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/71536311/194708954-146bcad3-9c7e-4fca-906e-8cf4dc380b7a.png"></p>
-
-### 😂 Random Dev Meme
-<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/71536311/194709103-99e73259-6e03-4a6f-b9df-40232b0718ad.png"></p>
----
-
-[![](https://visitcount.itsvg.in/api?id=NiveditaSureshK&icon=0&color=0)](https://visitcount.itsvg.in)
