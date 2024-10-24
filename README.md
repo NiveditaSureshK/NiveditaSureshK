@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# About Me:
-Alice In Wonderland has a line that has stuck with me ever since: "She had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and, burning with curiosity, she ran after it."
+## About Me:
+#### Alice In Wonderland has a line that has stuck with me ever since: "She had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and, burning with curiosity, she ran after it."
 
 As I've moved forward in life, I've realized that successful individuals don't have to force themselves to always be learning more. They are always learning because, like Alice, they are burning with curiosity. 
 
