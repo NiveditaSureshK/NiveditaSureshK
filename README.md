@@ -1,6 +1,5 @@
-## Hi there 👋
+### Hi there 👋
 
-### About Me:
 #### Curiosity, creativity, and code — that's my world!
 
 As a Master's graduate in Applied Data Analytics, I thrive on solving complex problems with data-driven insights. From building healthcare chatbots using NLP to creating recommendation engines and implementing intelligent data workflows, I enjoy blending Python, PySpark, and machine learning to make an impact.
