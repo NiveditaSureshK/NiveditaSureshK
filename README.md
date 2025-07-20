@@ -26,12 +26,12 @@ When I’m not analyzing data, you’ll find me exploring cutting-edge AI tools 
 
 ## 🛠 Featured Projects
 
-### 🔁 [SME Credit Risk & Stress Testing Pipeline](https://github.com/NiveditaSuresh)
+### 🔁 [SME Credit Risk & Stress Testing Pipeline](https://github.com/NiveditaSureshK/loan-stress-test)
 - Ridge-penalized rare-event logistic regression model
 - Macro-financial feature engineering and VIF-based multicollinearity pruning
 - Monte Carlo PD simulation under VAR-based macroeconomic stress
 
-### 🌐 [TourGuide Route Optimizer (ELT + Analytics Stack)](https://github.com/NiveditaSuresh)
+### 🌐 [TourGuide Route Optimizer (ELT + Analytics Stack)](https://github.com/NiveditaSureshK/tour-guide-ai)
 - Automated Airflow + dbt ELT for 3GB of rideshare, POI & weather data
 - Deployed in GCP with Looker dashboards and budget trigger alerts
 - Cut trip duration by 17% and p95 budget overruns by 11pp
