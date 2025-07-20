@@ -36,7 +36,7 @@ When I’m not analyzing data, you’ll find me exploring cutting-edge AI tools 
 - Deployed in GCP with Looker dashboards and budget trigger alerts
 - Cut trip duration by 17% and p95 budget overruns by 11pp
 
-### 📊 [Mutual Fund Alpha Analysis (Quant Research)]  
+### 📊 Mutual Fund Alpha Analysis (Quant Research)  
 - Clustered funds via CuSum & K-Means, outperforming S&P 500 by 12%
 - Regression models using Sharpe ratio, Jensen’s alpha, AUM, and more
 
@@ -44,15 +44,15 @@ When I’m not analyzing data, you’ll find me exploring cutting-edge AI tools 
 
 ## 💼 Professional Experience
 
-### **Data Analyst Intern – Mentis Systems**
+### **Data Analyst Intern - Mentis Systems**
 - Built Power BI dashboards for engineering leadership
 - Automated Kafka + Lambda-based pipelines; optimized PostgreSQL queries (↓25% latency)
 
-### **Business Analyst – Abecedarian LLC**
+### **Business Analyst - Abecedarian LLC**
 - Migrated legacy ERP to cloud with sprint planning & analytics
 - Led CRM feature rollouts with stakeholder training & workflow alignment
 
-### **Research Assistant – Boston University**
+### **Research Assistant - Boston University**
 - Developed a chatbot for medical patient triage (NLP with SpaCy/NLTK)
 - Built fund analysis models using WRDS data and Python
 
@@ -65,4 +65,4 @@ When I’m not analyzing data, you’ll find me exploring cutting-edge AI tools 
 
 ---
 
-📌 *Always open to collaboration or a good data story.
+📌 Always open to collaboration or a good data story.
