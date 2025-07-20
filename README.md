@@ -46,7 +46,7 @@ When I’m not analyzing data, you’ll find me exploring cutting-edge AI tools 
 
 ### **Data Analyst Intern - Mentis Systems**
 - Built Power BI dashboards for engineering leadership
-- Automated Kafka + Lambda-based pipelines; optimized PostgreSQL queries (↓25% latency)
+- Automated Kafka + Lambda-based pipelines; optimized PostgreSQL queries (reducing 25% latency)
 
 ### **Business Analyst - Abecedarian LLC**
 - Migrated legacy ERP to cloud with sprint planning & analytics
