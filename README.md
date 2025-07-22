@@ -3,7 +3,7 @@
 
 Thanks for stopping by my profile! I’m a passionate Analyst who thrives on transforming messy data into actionable insights and visual stories. With experience spanning finance, healthcare, and AI, I enjoy solving complex problems and driving smarter decisions through data.
 
-As a Master's graduate in **Applied Data Analytics**, I bring a strong foundation in statistical modeling, data pipelines, and machine learning. Whether it's crafting NLP-powered healthcare chatbots, building recommendation engines, or streamlining workflows with PySpark, I’m always focused on impact.
+As a Master's graduate in **Applied Data Analytics** from **Boston University**, I bring a strong foundation in statistical modeling, data pipelines, and machine learning. Whether it's crafting NLP-powered healthcare chatbots, building recommendation engines, or streamlining workflows with PySpark, I’m always focused on impact.
 
 I love working with:
 - **ETL pipelines** using PostgreSQL and DBT
